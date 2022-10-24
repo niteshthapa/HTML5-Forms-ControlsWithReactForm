@@ -1,5 +1,8 @@
 # Handle HTML5 Forms Controls With React Form
 
+# Summary
+This post i have shown how we can store all the HTML5 controls value in and object.This is for absolutly beginner we can handle with mush better way but as i
+said this is for absolutly beginner.
 ### `Demo`
 
 Open [https://react-hdpbkb.stackblitz.io/](https://react-hdpbkb.stackblitz.io/) to view it in your browser.
